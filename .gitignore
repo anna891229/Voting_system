@@ -1,0 +1,9 @@
+# OS 系統檔
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# 環境設定（避免上傳敏感資訊）
+.env
